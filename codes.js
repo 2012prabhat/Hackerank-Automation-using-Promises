@@ -166,7 +166,7 @@ int main()
         ar[i] = ar_item;
     }
     long result = aVeryBigSum(ar);
-    fout << result << "\n";
+    fout << result << "\\n";
     fout.close();
     return 0;
 }
